@@ -6,6 +6,7 @@ This is a C# asp.net application using React as the front-end (GUI).
 
 - Visual Studio 2019/2022
 - Dotnet 6 (Long term support)
+- Git (Optional)
 
 ## Compile and run instructions
 
