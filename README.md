@@ -29,7 +29,7 @@ If the previous instructions do not work then you can try these.
   saved in and then run the below command.
 
 ```bash
-git clone https://github.com/SuzuyaBish/st10247529_PROG7312_POE_P1.git
+git clone -b master https://github.com/VCSTDN/prog7312-part1-SuzuyaBish.git
 ```
 
 - Open the folder named "st10247529_PROG7312_POE_P1".
